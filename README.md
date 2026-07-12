@@ -1,3 +1,5 @@
+<img alt="banner" src="banner.webp"> </img>
+
 # Straight to the point. 🖤
 
 I'm **RealRaven** — an independent AI & Robotics developer focused on building systems that actually work, unrestricted & unregulated on local hardware.
