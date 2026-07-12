@@ -4,7 +4,7 @@
   <img alt="banner" src="assets/banner.webp"> </img>
 </p>
 
-I'm **RealRaven** — an independent AI & Robotics developer focused on building systems that actually work, unrestricted & unregulated on local hardware.
+I'm **RealRaven** — an independent AI & Robotics developer focused on building systems that actually work, free & independent on local hardware.
 
 ### What I build
 - 🧬 Advanced memory systems with ChromaDB, LangChain, RAG
