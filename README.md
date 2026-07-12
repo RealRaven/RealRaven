@@ -154,9 +154,7 @@
   <a href="#_">
     <img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/NuGet-white?style=for-the-badge&logo=nuget&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
+
   <a href="#_">
     <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
@@ -230,18 +228,17 @@
 <p align="right">
   <a href="#_">
     <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
+  </a>
   <a href="#_">
-     <img src="https://skillicons.dev/icons?i=cs&theme=dark&perline=1" alt="Tech Stack" />
-  </a>&nbsp;
+     <img src="https://skillicons.dev/icons?i=cs,java&theme=dark&perline=2" alt="Tech Stack" />
+  </a>
   <br>
   <a href="#_">
-    <img src="https://img.shields.io/badge/%3C%2F%3E-XML-white?style=for-the-badge&labelColor=white&logoColor=black" alt="Badge">
-  </a>&nbsp;
- <br>
+    <img src="https://img.shields.io/badge/NuGet-white?style=for-the-badge&logo=nuget&logoColor=black&logoSize=auto" alt="Badge">
+  </a>
   <a href="#_">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark&perline=1" alt="Tech Stack" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/%3C%2F%3E-XML-white?style=for-the-badge&labelColor=white&logoColor=black" alt="Badge">
+  </a>
 </p>
 
 <!-- IDE -->
