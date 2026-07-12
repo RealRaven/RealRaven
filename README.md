@@ -1,5 +1,17 @@
+<!-- Title -->
 <p align="center">
  <img alt="banner" src="assets/title.png"> </img>
+</p>
+
+<!-- Repositories -->
+<p align="center">
+  <strong>Repositories</strong> 🐦‍⬛
+  <a href="https://github.com/RealRaven/ForgeLoopGRPO" target="_blank">
+    <img src="https://img.shields.io/badge/ForgeLoopGRPO-efbf04?style=flat-square" alt=""ForgeLoopGRPO">
+  </a>
+  <a href="https://github.com/RealRaven/AutonomousBusinessOS-Demo" target="_blank">
+    <img src="https://img.shields.io/badge/AutonomousBusinessOS--Demo-c4c4c4?style=flat-square" alt="Badge">
+  </a>
 </p>
 
 <!-- Banner -->
@@ -32,6 +44,15 @@
   <img src="https://img.shields.io/badge/Magento-white?style=for-the-badge&logo=magento&logoColor=black&logoSize=auto" alt="Badge">
  </a>
 </p>
+
+<!-- Tech Stack -->
+<p align="right">
+ <a href="#_">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=1" alt="Tech Stack" />
+ </a>
+</p>
+
+
 
 <!-- Tech Stack -->
 <p align="center">
@@ -189,12 +210,7 @@
   
   
 </p>
-<!-- Tech Stack -->
-<p align="left">
-  <a href="#_">
-     <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=1" alt="Tech Stack" />
-  </a>
-</p>
+
 
 <!-- Tech Stack -->
 <p align="right">
@@ -228,15 +244,7 @@
 
 ---
 
-<!-- Repositories -->
-<p>
-  <a href="https://github.com/RealRaven/ForgeLoopGRPO" target="_blank">
-    <img src="https://img.shields.io/badge/ForgeLoopGRPO-efbf04?style=for-the-badge" alt=""ForgeLoopGRPO">
-  </a>
-  <a href="https://github.com/RealRaven/AutonomousBusinessOS-Demo" target="_blank">
-    <img src="https://img.shields.io/badge/AutonomousBusinessOS--Demo-c4c4c4?style=for-the-badge" alt="Badge">
-  </a>
-</p>
+
 
 
 
