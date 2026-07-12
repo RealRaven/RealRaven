@@ -1,6 +1,6 @@
-# Straight to the point. 🖤
-
- <img alt="banner" src="assets/title.svg"> </img>
+<p align="center">
+ <img alt="banner" src="assets/title.png"> </img>
+</p>
 
 <!-- Banner -->
 <p align="center">
