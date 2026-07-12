@@ -58,13 +58,15 @@
 
 
 
- <a href="#_">
-    <img src="https://skillicons.dev/icons?i=cs&theme=dark&perline=1" alt="Tech Stack" />
+  <a href="#_">
+     <img src="https://skillicons.dev/icons?i=cs&theme=dark&perline=1" alt="Tech Stack" />
   </a>&nbsp;
 
-   <a href="#_">
+  <a href="#_">
     <img src="https://skillicons.dev/icons?i=java&theme=dark&perline=1" alt="Tech Stack" />
   </a>&nbsp;
+
+
 
 
 
@@ -187,10 +189,21 @@
    <img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
   <a href="#_">
+    <img src="https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=black&logoSize=auto" alt="Badge">
+  </a>&nbsp;
+  <a href="#_">
+    <img src="https://img.shields.io/badge/Unreal%20Engine-white?style=for-the-badge&logo=unrealengine&logoColor=black&logoSize=auto" alt="Badge">
+  </a>&nbsp;
+  <a href="#_">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>&nbsp;
   
+
+  <br>
   
+  <a href="#_">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,phpstorm&theme=dark&perline=4" alt="Tech Stack" />
+  </a>
   
 </p>
 
