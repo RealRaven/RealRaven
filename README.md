@@ -35,10 +35,9 @@
   </a>
 </p>
 
+<!-- Tech Stack -->
 <p align="center">
-  <a href="#_">
-    <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
+  
 
   <br>
   <br>
@@ -52,14 +51,9 @@
   <br>
 
 
+ 
 
-  <a href="#_">
-     <img src="https://skillicons.dev/icons?i=cs&theme=dark&perline=1" alt="Tech Stack" />
-  </a>&nbsp;
 
-  <a href="#_">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark&perline=1" alt="Tech Stack" />
-  </a>&nbsp;
 
 
 
@@ -192,12 +186,37 @@
   </a>&nbsp;
   
 
-  <br>
+
   
+  
+  
+</p>
+<!-- Tech Stack -->
+<br>
+<p align="right">
+  <a href="#_">
+    <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=black&logoSize=auto" alt="Badge">
+  </a>&nbsp;
+  <a href="#_">
+     <img src="https://skillicons.dev/icons?i=cs&theme=dark&perline=1" alt="Tech Stack" />
+  </a>&nbsp;
+  <br>
+  <a href="#_">
+    <img src="https://img.shields.io/badge/%3C%2F%3E-XML-white?style=for-the-badge&labelColor=white&logoColor=black" alt="Badge">
+  </a>&nbsp;
+ <br>
+  <a href="#_">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark&perline=1" alt="Tech Stack" />
+  </a>&nbsp;
+ 
+</p>
+
+<!-- IDE -->
+<br>
+<p align="center">
   <a href="#_">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,phpstorm&theme=dark&perline=4" alt="Tech Stack" />
   </a>
-  
 </p>
 
 <br>
