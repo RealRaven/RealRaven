@@ -86,6 +86,20 @@
     <img src="https://img.shields.io/badge/C%2FC%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
 
+
+  <a href="#_">
+   <img src="https://img.shields.io/badge/RAG-white?style=for-the-badge" alt="Badge">
+  </a>&nbsp;
+  <a href="#_">
+    <img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge" alt="Badge">
+  </a>&nbsp;
+  <a href="#_">
+    <img src="https://img.shields.io/badge/ChromaDB-white?style=for-the-badge" alt="Badge">
+  </a>&nbsp;
+  <a href="#_">
+    <img src="https://img.shields.io/badge/Gradio-white?style=for-the-badge" alt="Badge">
+  </a>&nbsp;
+
   <a href="#_">
     <img src="https://img.shields.io/badge/XAMPP-white?style=for-the-badge&logo=xampp&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
