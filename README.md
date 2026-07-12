@@ -193,7 +193,7 @@
   <a href="https://github.com/RealRaven/ForgeLoopGRPO" target="_blank">
     <img src="https://img.shields.io/badge/ForgeLoopGRPO-efbf04?style=for-the-badge" alt=""ForgeLoopGRPO">
   </a>
-  <a href="https://github.com/RealRaven/ForgeLoopGRPO" target="_blank">
+  <a href="https://github.com/RealRaven/AutonomousBusinessOS-Demo" target="_blank">
     <img src="https://img.shields.io/badge/AutonomousBusinessOS--Demo-c4c4c4?style=for-the-badge" alt="Badge">
   </a>
 </p>
