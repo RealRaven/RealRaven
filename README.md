@@ -58,6 +58,13 @@
 
 
 
+ <a href="#_">
+    <img src="https://skillicons.dev/icons?i=cs&theme=dark&perline=1" alt="Tech Stack" />
+  </a>&nbsp;
+
+   <a href="#_">
+    <img src="https://skillicons.dev/icons?i=java&theme=dark&perline=1" alt="Tech Stack" />
+  </a>&nbsp;
 
 
 
@@ -172,6 +179,12 @@
   </a>&nbsp;
   <a href="#_">
     <img src="https://img.shields.io/badge/Fine--Tuning-SFT%20%2F%20ORPO%20%2F%20DPO%20%2F%20GRPO%20%2F%20PPO-white?style=for-the-badge&labelColor=white" alt="Badge">
+  </a>&nbsp;
+  <a href="#_">
+    <img src="https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jquery&logoColor=black&logoSize=auto" alt="Badge">
+  </a>&nbsp;
+  <a href="#_">
+   <img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
   <a href="#_">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
