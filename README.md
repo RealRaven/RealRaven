@@ -48,7 +48,24 @@
 <!-- Tech Stack -->
 <p align="right">
  <a href="#_">
+  <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
   <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=1" alt="Tech Stack" />
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jquery&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <br>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=sass&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <br>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=black&logoSize=auto" alt="Badge">
  </a>
 </p>
 
@@ -118,9 +135,7 @@
   <a href="#_">
     <img src="https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/Sass-white?style=for-the-badge&logo=sass&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
+ 
   <a href="#_">
     <img src="https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
@@ -148,9 +163,7 @@
   <a href="#_">
     <img src="https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
+ 
   <a href="#_">
     <img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
@@ -173,9 +186,7 @@
   <a href="#_">
     <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
+
   <a href="#_">
     <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
@@ -200,12 +211,8 @@
   <a href="#_">
     <img src="https://img.shields.io/badge/Fine--Tuning-SFT%20%2F%20ORPO%20%2F%20DPO%20%2F%20GRPO%20%2F%20PPO-white?style=for-the-badge&labelColor=white" alt="Badge">
   </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jquery&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
-  <a href="#_">
-   <img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
+
+
   <a href="#_">
     <img src="https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
