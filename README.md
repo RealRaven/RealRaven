@@ -1,9 +1,11 @@
 # Straight to the point. 🖤
 
+ <img alt="banner" src="assets/title.svg"> </img>
+
 <!-- Banner -->
-<div align="center">
+<p align="center">
   <img alt="banner" src="assets/banner.webp"> </img>
-</div>
+</p>
 
 <br>
 
