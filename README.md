@@ -4,35 +4,33 @@
 
 <!-- Banner -->
 <p align="center">
-  <img alt="banner" src="assets/banner.webp"> </img>
+ <img alt="banner" src="assets/banner.webp"> </img>
 </p>
 
 <br>
 
 <!-- Tech Stack -->
-<p algin="left">
-  <a href="#_">
-    <img src="https://img.shields.io/badge/Contao-white?style=for-the-badge&logo=contao&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/Drupal-white?style=for-the-badge&logo=drupal&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
-  &nbsp;<a href="#_">
-    <img src="https://img.shields.io/badge/CakePHP-white?style=for-the-badge&logo=cakephp&logoColor=black&logoSize=auto" alt="Badge">
-  </a>
-  <a href="#_">
-    <img src="https://img.shields.io/badge/Magento-white?style=for-the-badge&logo=magento&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
- 
-  <br>
-  <br>
- 
-  <a href="#_">
-    <img src="https://skillicons.dev/icons?i=php&theme=dark&perline=1" alt="Tech Stack" />
-  </a>
+<p algin="left">  
+ <a href="#_">
+  <img src="https://skillicons.dev/icons?i=php&theme=dark&perline=1" alt="Tech Stack" />
+ </a>&nbsp;
+ <a href="#_">
+  <img src="https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <br>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/CakePHP-white?style=for-the-badge&logo=cakephp&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Drupal-white?style=for-the-badge&logo=drupal&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <br>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Contao-white?style=for-the-badge&logo=contao&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Magento-white?style=for-the-badge&logo=magento&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
 </p>
 
 <!-- Tech Stack -->
@@ -192,7 +190,13 @@
   
 </p>
 <!-- Tech Stack -->
-<br>
+<p align="left">
+  <a href="#_">
+     <img src="https://skillicons.dev/icons?i=css&theme=dark&perline=1" alt="Tech Stack" />
+  </a>
+</p>
+
+<!-- Tech Stack -->
 <p align="right">
   <a href="#_">
     <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=black&logoSize=auto" alt="Badge">
@@ -208,11 +212,9 @@
   <a href="#_">
     <img src="https://skillicons.dev/icons?i=java&theme=dark&perline=1" alt="Tech Stack" />
   </a>&nbsp;
- 
 </p>
 
 <!-- IDE -->
-<br>
 <p align="center">
   <a href="#_">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,phpstorm&theme=dark&perline=4" alt="Tech Stack" />
