@@ -168,10 +168,10 @@
     <img src="https://img.shields.io/badge/AutoCAD-white?style=for-the-badge&logo=autocad&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
   <a href="#_">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
   <a href="#_">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Fine--Tuning-SFT%20%2F%20ORPO%20%2F%20DPO%20%2F%20GRPO%20%2F%20PPO-white?style=for-the-badge&labelColor=white" alt="Badge">
   </a>&nbsp;
   <a href="#_">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
