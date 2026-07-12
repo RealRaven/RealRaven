@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Contao-white?style=for-the-badge&logo=contao&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
   <a href="#_">
-    <img src="https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=black&logoSize=auto" alt="Badge">
+    <img src="https://img.shields.io/badge/C%2FC%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
   <a href="#_">
     <img src="https://img.shields.io/badge/Magento-white?style=for-the-badge&logo=magento&logoColor=black&logoSize=auto" alt="Badge">
@@ -173,7 +173,7 @@
   <a href="#_">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>&nbsp;
-    <a href="#_">
+  <a href="#_">
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>&nbsp;
   
@@ -184,36 +184,19 @@
 <br>
 
 
-I'm **RealRaven** — an independent AI & Robotics developer focused on building systems that actually work, free & independent on local hardware.
 
-### What I build
-- 🧬 Advanced memory systems with ChromaDB, LangChain, RAG
-- 🪶 GRPO training frameworks for single-consumer-GPU (RTX4090) with vllm 0.22.1 and own TRL (ForgeLoopGRPO)
-- 🐦‍⬛ Autonomous robotics software & kits
-- 🦾 AI Agents Software & Finetuning (SFT, GRPO, ORPO, DPO, PPO) 
-- 🤖 Custom RAG pipelines and reinforcement learning systems
-
-### Currently working on
-- 🔼 Scaling my memory architecture
-- 🌎 Preparing robotics kits for real-world deployment
-
-### Skills
-- 🐍 (Main) Python, C#, C/C++, JavaScript, PHP 💻
-- ⛓️ LangChain, RAG, GRPO/ORPO/DPO, Docker 🐳
-- 🔌 ROS, Arduino, Raspberry Pi, hardware prototyping ⚙️
-- 🏛️ Fullstack development & system architecture 🌕
 
 ---
 
-**"Real work. Real results. No shortcuts."**
-
-Feel free to explore my repositories.
-Open to interesting collaborations in AI and robotics.
-
-<div align="center">
-  <img alt="banner" src="assets/avatar.png"> </img>
-</div>
-<br>
+<!-- Repositories -->
+<p>
+  <a href="https://github.com/RealRaven/ForgeLoopGRPO" target="_blank">
+    <img src="https://img.shields.io/badge/ForgeLoopGRPO-efbf04?style=for-the-badge" alt=""ForgeLoopGRPO">
+  </a>
+  <a href="https://github.com/RealRaven/ForgeLoopGRPO" target="_blank">
+    <img src="https://img.shields.io/badge/AutonomousBusinessOS--Demo-c4c4c4?style=for-the-badge" alt="Badge">
+  </a>
+</p>
 
 
 
