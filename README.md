@@ -1,6 +1,8 @@
-<img alt="banner" src="banner.webp"> </img>
-
 # Straight to the point. 🖤
+
+<p align="center">
+  <img alt="banner" src="assets/banner.webp"> </img>
+</p>
 
 I'm **RealRaven** — an independent AI & Robotics developer focused on building systems that actually work, unrestricted & unregulated on local hardware.
 
@@ -27,6 +29,10 @@ I'm **RealRaven** — an independent AI & Robotics developer focused on building
 
 Feel free to explore my repositories.
 Open to interesting collaborations in AI and robotics.
+
+<p align="center">
+  <img alt="banner" src="assets/avatar.png"> </img>
+</p>
 
 <!--
 **RealRaven/RealRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
