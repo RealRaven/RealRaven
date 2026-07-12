@@ -10,51 +10,46 @@
 <br>
 
 <!-- Tech Stack -->
+<p algin="left">
+  <a href="#_">
+    <img src="https://img.shields.io/badge/Contao-white?style=for-the-badge&logo=contao&logoColor=black&logoSize=auto" alt="Badge">
+  </a>&nbsp;
+  <a href="#_">
+    <img src="https://img.shields.io/badge/Drupal-white?style=for-the-badge&logo=drupal&logoColor=black&logoSize=auto" alt="Badge">
+  </a>&nbsp;
+  &nbsp;<a href="#_">
+    <img src="https://img.shields.io/badge/CakePHP-white?style=for-the-badge&logo=cakephp&logoColor=black&logoSize=auto" alt="Badge">
+  </a>
+  <a href="#_">
+    <img src="https://img.shields.io/badge/Magento-white?style=for-the-badge&logo=magento&logoColor=black&logoSize=auto" alt="Badge">
+  </a>&nbsp;
+  <a href="#_">
+    <img src="https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=black&logoSize=auto" alt="Badge">
+  </a>&nbsp;
+ 
+  <br>
+  <br>
+ 
+  <a href="#_">
+    <img src="https://skillicons.dev/icons?i=php&theme=dark&perline=1" alt="Tech Stack" />
+  </a>
+</p>
 
 <p align="center">
   <a href="#_">
     <img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/Drupal-white?style=for-the-badge&logo=drupal&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/CakePHP-white?style=for-the-badge&logo=cakephp&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
 
   <br>
   <br>
 
-  <a href="#_">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
   <a href="#_">
     <img src="https://skillicons.dev/icons?i=python&theme=dark&perline=1" alt="Tech Stack" />
   </a>&nbsp;
-  <a href="#_">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black""/>
-  </a>&nbsp;
-   <a href="#_">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black""/>
-  </a>&nbsp;
 
   <br>
   <br>
   <br>
-
-  <a href="#_">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/WordPress-white?style=for-the-badge&logo=wordpress&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
-
 
 
 
@@ -71,15 +66,13 @@
 
 
 
-  <a href="#_">
-    <img src="https://img.shields.io/badge/Contao-white?style=for-the-badge&logo=contao&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
+
+
+ 
   <a href="#_">
     <img src="https://img.shields.io/badge/C%2FC%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
-  <a href="#_">
-    <img src="https://img.shields.io/badge/Magento-white?style=for-the-badge&logo=magento&logoColor=black&logoSize=auto" alt="Badge">
-  </a>&nbsp;
+
   <a href="#_">
     <img src="https://img.shields.io/badge/XAMPP-white?style=for-the-badge&logo=xampp&logoColor=black&logoSize=auto" alt="Badge">
   </a>&nbsp;
