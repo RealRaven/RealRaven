@@ -22,61 +22,61 @@
 <br>
 <!-- Tech Stack -->
 <p align="center">
-   <a href="#_">
-    <img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black&logoSize=auto" alt="Badge">
-   </a>
-   <a href="#_">
-    <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=black&logoSize=auto" alt="Badge">
-  </a>
-   <a href="#_">
-    <img src="https://img.shields.io/badge/Anaconda-white?style=for-the-badge&logo=anaconda&logoColor=black&logoSize=auto" alt="Badge">
-  </a>
-   <a href="#_">
-    <img src="https://img.shields.io/badge/C%2FC%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=black&logoSize=auto" alt="Badge">
-  </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Anaconda-white?style=for-the-badge&logo=anaconda&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
  <br>
-  <a href="#_">
-    <img src="https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=black&logoSize=auto" alt="Badge">
-  </a>
-  <a href="#_">
-    <img src="https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&logoColor=black&logoSize=auto" alt="Badge">
-  </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/TensorFlow-white?style=for-the-badge&logo=tensorflow&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
  <br>
-  <a href="#_">
-    <img src="https://img.shields.io/badge/ONNX-white?style=for-the-badge&logo=onnx&logoColor=black&logoSize=auto" alt="Badge">
-  </a>
-   <a href="#_">
-    <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=black&logoSize=auto" alt="Badge">
-  </a>
-  <a href="#_">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark&perline=1" alt="Tech Stack" />
-  </a>
-   <a href="#_">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-white?style=for-the-badge&logo=raspberrypi&logoColor=black&logoSize=auto" alt="Badge">
-  </a>
-   <a href="#_">
-    <img src="https://img.shields.io/badge/ROS-white?style=for-the-badge&logo=ros&logoColor=black&logoSize=auto" alt="Badge">
-  </a>
-  <br>
-   <a href="#_">
-   <img src="https://img.shields.io/badge/RAG-white?style=for-the-badge" alt="Badge">
-  </a>
-  <a href="#_">
-    <img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge" alt="Badge">
-  </a>
-  <a href="#_">
-    <img src="https://img.shields.io/badge/ChromaDB-white?style=for-the-badge" alt="Badge">
-  </a>
-  <a href="#_">
-    <img src="https://img.shields.io/badge/Gradio-white?style=for-the-badge" alt="Badge">
-  </a>
-  <a href="#_">
-    <img src="https://img.shields.io/badge/vLLM-white?style=for-the-badge" alt="Badge">
-  </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/ONNX-white?style=for-the-badge&logo=onnx&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark&perline=1" alt="Tech Stack" />
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-white?style=for-the-badge&logo=raspberrypi&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/ROS-white?style=for-the-badge&logo=ros&logoColor=black&logoSize=auto" alt="Badge">
+ </a>
  <br>
-   <a href="#_">
-    <img src="https://img.shields.io/badge/Fine--Tuning-SFT%20%2F%20ORPO%20%2F%20DPO%20%2F%20GRPO%20%2F%20PPO-white?style=for-the-badge&labelColor=white" alt="Badge">
-  </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/RAG-white?style=for-the-badge" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/ChromaDB-white?style=for-the-badge" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Gradio-white?style=for-the-badge" alt="Badge">
+ </a>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/vLLM-white?style=for-the-badge" alt="Badge">
+ </a>
+ <br>
+ <a href="#_">
+  <img src="https://img.shields.io/badge/Fine--Tuning-SFT%20%2F%20ORPO%20%2F%20DPO%20%2F%20GRPO%20%2F%20PPO-white?style=for-the-badge&labelColor=white" alt="Badge">
+ </a>
 </p>
 
 <!-- Tech Stack -->
