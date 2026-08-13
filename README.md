@@ -13,7 +13,10 @@
     <img src="https://img.shields.io/badge/ForgeLoopGRPO-efbf04?style=flat-square" alt=""ForgeLoopGRPO">
   </a>
   <a href="https://github.com/RealRaven/AutonomousBusinessOS-Demo" target="_blank">
-    <img src="https://img.shields.io/badge/AutonomousBusinessOS--Demo-c4c4c4?style=flat-square" alt="Badge">
+    <img src="https://img.shields.io/badge/AutonomousBusinessOS--Demo-c4c4c4?style=flat-square" alt="AutonomousBusinessOS-Demo">
+  </a>
+  <a href="https://github.com/RealRaven/swiss-business-calc-mini" target="_blank">
+    <img src="https://img.shields.io/badge/SwissBusinessKalkulation-d3271b?style=flat-square" alt="SwissBusinessKalkulation">
   </a>
 </p>
 
