@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/SwissBusinessKalkulation-d3271b?style=flat-square" alt="SwissBusinessKalkulation">
   </a>
   <a href="https://github.com/RealRaven/SpaceRaven-Finetune" target="_blank">
-    <img src="https://img.shields.io/badge/SpaceRaven-Finetune-0a132b?style=flat-square" alt="SpaceRaven-Finetune">
+    <img src="https://img.shields.io/badge/SpaceRavenFinetune-0a132b?style=flat-square" alt="SpaceRaven-Finetune">
   </a>
 </p>
 
