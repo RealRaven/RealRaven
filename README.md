@@ -21,7 +21,7 @@
   <a href="https://github.com/RealRaven/SpaceRaven-Finetune" target="_blank">
     <img src="https://img.shields.io/badge/SpaceRavenFinetune-0a132b?style=flat-square" alt="SpaceRaven-Finetune">
   </a>
-  <a href=" https://github.com/RealRaven/music_balls" target="_blank">
+  <a href="https://github.com/RealRaven/music_balls" target="_blank">
     <img src="https://img.shields.io/badge/MusicBalls-296e01?style=flat-square" alt="music_balls">
   </a>
 </p>
