@@ -27,6 +27,9 @@
   <a href="https://github.com/RealRaven/REI-0-accounting-demo" target="_blank">
     <img src="https://img.shields.io/badge/REI0AccountingDemo-049fa4?style=flat-square" alt="REI-0-accounting-demo">
   </a>
+  <a href="https://github.com/RealRaven/ChessMasterAI" target="_blank">
+   <img alt="Chess" src="https://img.shields.io/badge/Chess-MasterAI-000000?style=flat-square&amp;labelColor=fff">
+  </a>
 </p>
 
 <!-- Banner -->
